@@ -8,7 +8,7 @@ My name is Wing, im a 17 year old developer that mainly works in JavaScript. Mos
 ![Express.js](https://img.shields.io/badge/Code-Express-informational?style=flat&logo=express&logoColor=white)
 
 ## Current project
-[![aperii](https://github-readme-stats.vercel.app/api/pin/?username=wingio&repo=aperii&bg_color=141321&text_color=fff)](https://github.com/wingio/aperii)
+[![aperii](https://github-readme-stats.vercel.app/api/pin/?username=aperii&repo=aperii&bg_color=141321&text_color=fff)](https://github.com/aperii/aperii)
 
 ## Stats
 ![My stats](https://github-readme-stats.vercel.app/api?username=wingio&show_icons=true&theme=radical)
