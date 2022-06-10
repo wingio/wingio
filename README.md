@@ -1,5 +1,5 @@
 # Hello
-My name is Wing, im an 18 year old developer that mainly works in JavaScript. Most of my projects, both current and fomer were/are Discord bots, however I have recently started to diversify.
+My name is Wing, im an 19 year old developer that mainly works in JavaScript. Most of my projects, both current and fomer were/are Discord bots, however I have recently started to diversify.
 ### Tools
 ![IDE](https://img.shields.io/badge/IDE-VSCode-informational?style=flat&logo=Visual%20Studio%20Code&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/Code-JavaScript-informational?style=flat&logo=JavaScript&logoColor=white)
