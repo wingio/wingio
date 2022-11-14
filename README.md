@@ -1,4 +1,4 @@
-# Hello
+# Hello 👋
 My name is Wing, im an 19 year old developer that mainly works in JavaScript. Most of my projects, both current and fomer were/are Discord bots, however I have recently started to diversify.
 
 [![Discord Presence](https://lanyard.cnrad.dev/api/298295889720770563)](https://discord.com/users/298295889720770563)
