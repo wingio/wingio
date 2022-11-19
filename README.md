@@ -1,5 +1,5 @@
 # Hello 👋
-My name is Wing, im an 19 year old developer that mainly works in JavaScript. Most of my projects, both current and fomer were/are Discord bots, however I have recently started to diversify.
+My name is Wing, I'm a 19 year old developer that works on Android apps, I'm a big fan of Kotlin and a hater of Java.
 
 [![Discord Presence](https://lanyard.cnrad.dev/api/298295889720770563)](https://discord.com/users/298295889720770563)
 
