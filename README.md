@@ -6,7 +6,7 @@ My name is Wing, I'm a 20 year old developer that works on Android apps, I'm a b
 [![GitHub Sponsors](https://img.shields.io/github/sponsors/wingio?style=for-the-badge&logo=GitHub%20Sponsors&logoColor=%23995599&labelColor=%23ffbbee&color=%23ddaadd)
 ](https://github.com/sponsors/wingio)
 
-[![Discord Presence](https://lanyard.cnrad.dev/api/298295889720770563)](https://discord.com/users/298295889720770563)
+[![My discord Presence](https://lanyard.cnrad.dev/api/298295889720770563)](https://discord.com/users/298295889720770563)
 
 ### Tools
 ![IDE: VSCode](https://img.shields.io/badge/IDE-VSCode-informational?style=for-the-badge&logo=Visual%20Studio%20Code&logoColor=white)
