@@ -28,7 +28,7 @@ I am a 21 year old programmer with an interest in Android. I have the most fun w
 ![Java](https://img.shields.io/badge/Language-Java-informational?style=for-the-badge&logo=OpenJDK&logoColor=white&labelColor=%23dd2222&color=%23ff4444)
 ![Kotlin](https://img.shields.io/badge/Language-Kotlin-informational?style=for-the-badge&logo=Kotlin&logoColor=white&labelColor=%237F52FF&color=%235d30dd)
 
-### Frameworks
+#### Frameworks
 ![Jetpack Compose](https://img.shields.io/badge/Framework-Jetpack%20Compose-informational?style=for-the-badge&logo=Jetpack%20Compose&logoColor=white&labelColor=%234285F4&color=%233DDC84)
 ![NextJS](https://img.shields.io/badge/Framework-NextJS-informational?style=for-the-badge&logo=Next.JS&logoColor=white&labelColor=black&color=white)
 ![ExpressJS](https://img.shields.io/badge/Framework-Express-informational?style=for-the-badge&logo=express&logoColor=black&labelColor=white&color=black)
