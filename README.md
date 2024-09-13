@@ -21,10 +21,10 @@ I am a 21 year old programmer with an interest in Android. I have the most fun w
 ![IDE: Android Studio](badges/astudio.svg)
 
 #### Languages
-![JavaScript](https://img.shields.io/badge/Language-JavaScript-informational?style=for-the-badge&logo=JavaScript&logoColor=yellow&labelColor=black&color=yellow)
-![TypeScript](https://img.shields.io/badge/Language-TypeScript-informational?style=for-the-badge&logo=TypeScript&logoColor=white&labelColor=%23007acc&color=%230060aa)
-![Java](https://img.shields.io/badge/Language-Java-informational?style=for-the-badge&logo=OpenJDK&logoColor=white&labelColor=%23dd2222&color=%23ff4444)
-![Kotlin](https://img.shields.io/badge/Language-Kotlin-informational?style=for-the-badge&logo=Kotlin&logoColor=white&labelColor=%237F52FF&color=%235d30dd)
+![Kotlin](badges/badge_kotlin.svg)
+![Java](badges/badge_java.svg)
+![TypeScript](badges/badge_ts.svg)
+![JavaScript](badges/badge_js.svg)
 
 #### Frameworks
 ![Jetpack Compose](https://img.shields.io/badge/Framework-Jetpack%20Compose-informational?style=for-the-badge&logo=Jetpack%20Compose&logoColor=white&labelColor=%234285F4&color=%233DDC84)
