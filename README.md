@@ -19,7 +19,7 @@ I am a 21 year old programmer with an interest in Android. I have the most fun w
 <img src="https://lanyard.cnrad.dev/api/298295889720770563" align="left"/>
 
 ![IDE: Visual Studio Code](badges/vscode.svg)
-<img src="https://github.com/user-attachments/assets/43b2dcc4-46c5-4ec0-a1bf-e92062b6fdab" height=30 alt="IDE: Android Studio" />
+![IDE: Android Studio](badges/astudio.svg)
 
 ![JavaScript](https://img.shields.io/badge/Language-JavaScript-informational?style=for-the-badge&logo=JavaScript&logoColor=yellow&labelColor=black&color=yellow)
 ![TypeScript](https://img.shields.io/badge/Language-TypeScript-informational?style=for-the-badge&logo=TypeScript&logoColor=white&labelColor=%23007acc&color=%230060aa)
