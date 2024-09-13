@@ -27,10 +27,8 @@ I am a 21 year old programmer with an interest in Android. I have the most fun w
 ![JavaScript](badges/badge_js.svg)
 
 #### Frameworks
-![Jetpack Compose](https://img.shields.io/badge/Framework-Jetpack%20Compose-informational?style=for-the-badge&logo=Jetpack%20Compose&logoColor=white&labelColor=%234285F4&color=%233DDC84)
-![NextJS](https://img.shields.io/badge/Framework-NextJS-informational?style=for-the-badge&logo=Next.JS&logoColor=white&labelColor=black&color=white)
-![ExpressJS](https://img.shields.io/badge/Framework-Express-informational?style=for-the-badge&logo=express&logoColor=black&labelColor=white&color=black)
-![NodeJS](https://img.shields.io/badge/Framework-Node.js-informational?style=for-the-badge&logo=node.js&logoColor=white&labelColor=%23339933&color=%23117711)
+![Jetpack Compose](badges/badge_compose.svg)
+![NextJS](badges/badge_nextjs.svg)
 
 ## Current project
 [![Gloom](https://github-readme-stats.vercel.app/api/pin/?username=MateriiApps&repo=Gloom&bg_color=141321&text_color=fff)](https://github.com/MateriiApps/Gloom)
