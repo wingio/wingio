@@ -4,10 +4,11 @@
     <source media="(prefers-color-scheme: light)" srcset="https://github.com/user-attachments/assets/dede4810-8ee6-4574-b0dd-6bb3cf4fee18">
     <img alt="Hi, I'm Wing" src="https://github.com/user-attachments/assets/690726e4-cbea-4c59-9df7-f1b3a6fa8a9b" width=400>
   </picture>
-  <img src="https://lanyard.cnrad.dev/api/298295889720770563" align="right"/>
-  
-  [![GitHub Sponsors](https://img.shields.io/github/sponsors/wingio?style=for-the-badge&logo=GitHub%20Sponsors&logoColor=%23995599&labelColor=%23ffbbee&color=%23ddaadd)](https://github.com/sponsors/wingio)
+
+  <img src="https://lanyard.cnrad.dev/api/298295889720770563?hideActivity=true&borderRadius=100px" align="right"/>
 </div>
+
+[![GitHub Sponsors](https://img.shields.io/github/sponsors/wingio?style=for-the-badge&logo=GitHub%20Sponsors&logoColor=%23995599&labelColor=%23ffbbee&color=%23ddaadd)](https://github.com/sponsors/wingio)
 
 I am a 21 year old programmer with an interest in Android. I have the most fun working with Kotlin (Compose to be specific).
 
