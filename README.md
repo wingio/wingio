@@ -8,7 +8,7 @@
 
 [![GitHub Sponsors](https://img.shields.io/github/sponsors/wingio?style=for-the-badge&logo=GitHub%20Sponsors&logoColor=%23995599&labelColor=%23ffbbee&color=%23ddaadd)](https://github.com/sponsors/wingio)
 
-I am a 21 year old programmer with an interest in Android. I have the most fun working with Kotlin (Compose to be specific).
+I am a 21 year old programmer with an interest in Android. I have a lot of fun working with Kotlin (more specifically Compose), and some reverse engineering.
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://github.com/user-attachments/assets/53014bb2-3129-4c1a-b20a-92142d8a30c5">
