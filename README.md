@@ -16,7 +16,7 @@ I am a 21 year old programmer with an interest in Android. I have the most fun w
   <img src="https://github.com/user-attachments/assets/53014bb2-3129-4c1a-b20a-92142d8a30c5" style="width:100%">
 </picture>
 
-<img src="https://lanyard.cnrad.dev/api/298295889720770563" align="left"/>
+<img src="https://lanyard.cnrad.dev/api/298295889720770563" align="right"/>
 
 ![IDE: Visual Studio Code](badges/vscode.svg)
 ![IDE: Android Studio](badges/astudio.svg)
