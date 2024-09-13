@@ -1,16 +1,26 @@
-# Hello 👋
-My name is Wing, I'm a 21 year old developer that works on Android apps, I'm a big fan of Kotlin and a hater of Java.
+<div>
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://github.com/user-attachments/assets/690726e4-cbea-4c59-9df7-f1b3a6fa8a9b">
+    <source media="(prefers-color-scheme: light)" srcset="https://github.com/user-attachments/assets/dede4810-8ee6-4574-b0dd-6bb3cf4fee18">
+    <img alt="Hi, I'm Wing" src="https://github.com/user-attachments/assets/690726e4-cbea-4c59-9df7-f1b3a6fa8a9b" width=400>
+  </picture>
+  
+  [![GitHub Sponsors](https://img.shields.io/github/sponsors/wingio?style=for-the-badge&logo=GitHub%20Sponsors&logoColor=%23995599&labelColor=%23ffbbee&color=%23ddaadd)](https://github.com/sponsors/wingio)
+</div>
 
-<div align="center">
+I am a 21 year old programmer with an interest in Android. I have the most fun working with Kotlin (Compose to be specific).
 
-[![GitHub Sponsors](https://img.shields.io/github/sponsors/wingio?style=for-the-badge&logo=GitHub%20Sponsors&logoColor=%23995599&labelColor=%23ffbbee&color=%23ddaadd)
-](https://github.com/sponsors/wingio)
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://github.com/user-attachments/assets/53014bb2-3129-4c1a-b20a-92142d8a30c5">
+  <source media="(prefers-color-scheme: light)" srcset="https://github.com/user-attachments/assets/2ed69842-4b8a-4e31-8ce7-013f0c4e064c">
+  <img src="https://github.com/user-attachments/assets/53014bb2-3129-4c1a-b20a-92142d8a30c5" style="width:100%">
+</picture>
 
-[![My discord Presence](https://lanyard.cnrad.dev/api/298295889720770563)](https://discord.com/users/298295889720770563)
+<img src="https://lanyard.cnrad.dev/api/298295889720770563" align="left"/>
 
-### Tools
-![IDE: VSCode](https://img.shields.io/badge/IDE-VSCode-informational?style=for-the-badge&logo=Visual%20Studio%20Code&logoColor=white)
-![IDE: Android Studio](https://img.shields.io/badge/IDE-Android%20Studio-informational?style=for-the-badge&logo=Android%20Studio&logoColor=white&labelColor=%2333bb66&color=%2355dd99)
+![IDE: Visual Studio Code](https://github.com/user-attachments/assets/352a4194-62a0-4ec9-9801-7d3558782524)
+![IDE: Android Studio](https://github.com/user-attachments/assets/bbf382d6-36e3-464a-8d60-0002b4ff7281)
+
 
 ![JavaScript](https://img.shields.io/badge/Language-JavaScript-informational?style=for-the-badge&logo=JavaScript&logoColor=yellow&labelColor=black&color=yellow)
 ![TypeScript](https://img.shields.io/badge/Language-TypeScript-informational?style=for-the-badge&logo=TypeScript&logoColor=white&labelColor=%23007acc&color=%230060aa)
