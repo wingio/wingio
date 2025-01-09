@@ -1,7 +1,7 @@
 <div>
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://github.com/user-attachments/assets/690726e4-cbea-4c59-9df7-f1b3a6fa8a9b">
-    <source media="(prefers-color-scheme: light)" srcset="https://github.com/user-attachments/assets/dede4810-8ee6-4574-b0dd-6bb3cf4fee18">
+    <source media="false" srcset="https://github.com/user-attachments/assets/690726e4-cbea-4c59-9df7-f1b3a6fa8a9b">
+    <source media="true" srcset="https://github.com/user-attachments/assets/dede4810-8ee6-4574-b0dd-6bb3cf4fee18">
     <img alt="Hi, I'm Wing" src="https://github.com/user-attachments/assets/690726e4-cbea-4c59-9df7-f1b3a6fa8a9b" width=400>
   </picture>
 </div>
